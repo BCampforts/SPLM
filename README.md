@@ -19,7 +19,7 @@ When you use SPLM, please reference one of these publications:
 
 Campforts, B. and Govers, G. (2015): Keeping the edge: A numerical method that avoids knickpoint smearing when solving the stream power law, J. Geophys. Res. Earth Surf., 120(7), 1189–1205, [doi:10.1002/2014JF003376] 
 
-Campforts B., Schwanghart W., Govers G.: TTLEM 1.0 : a numerical package for accurate simulation of transient landscapeevolution in MATLAB. Discussion paper
+Campforts B., Schwanghart W., Govers G.: TTLEM 1.0 : a numerical package for accurate simulation of transient landscape evolution in MATLAB. Discussion paper
 
 ## Links
 https://www.researchgate.net/profile/Benjamin_Campforts
