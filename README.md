@@ -1,6 +1,6 @@
 # SPLM - a set of numerical solutions for the 1D stream power law 
 
-<img src= "https://github.com/BCampforts/SPLM/blob/master/Fig_4%20RiverIncision_bis.png" align=" center" height="100">
+<img src= "https://github.com/BCampforts/SPLM/blob/master/Fig_4%20RiverIncision_bis.png" align=" center" >
 
 SPLM solves the 1D stream power law using different numerical
 methods. Instructions are provided in the main function SPLM and the examples. 
